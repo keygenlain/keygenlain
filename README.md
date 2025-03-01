@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 **keygenlain**
 
 - I’m currently working on a Text-Based Adventure Game
